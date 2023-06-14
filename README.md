@@ -1,8 +1,12 @@
 # Ecommerce-Store
-This is a general-purpose Ecommerce store model ready to be adapted and modified to fit any ecommerce business.
+This is a general-purpose Ecommerce store model ready to be adapted and modified to fit any ecommerce business.  
+## Store
 ![Ecom-Store](https://github.com/Danogbans/Ecommerce-Store/assets/89392668/22ffcf34-1be0-4c56-8d29-764c6080713c)
+## Cart
 ![Ecom-Cart](https://github.com/Danogbans/Ecommerce-Store/assets/89392668/6d25af37-1f3b-4f0a-930a-d854fc6bc1d3)
-![Ecom-Checkout](https://github.com/Danogbans/Ecommerce-Store/assets/89392668/55005394-4c8b-4f96-8951-12d3a00cb451)
+## Checkout
+![Ecom-Checkout](https://github.com/Danogbans/Ecommerce-Store/assets/89392668/55005394-4c8b-4f96-8951-12d3a00cb451)  
+
 ## Motivations
 I love Python and becoming a Python developer had always been my dream.  
 Now that I am one, becoming one of the best in the game is yet another huge dream which I pursue every minute of my life.  
@@ -11,7 +15,8 @@ hard to becoming a senior Python developer in a short period of time, perhaps in
 The hunger to learn, grow, be one of the best and get to the top is my motivation.  
              
              if python:       
-                 stayHungry = True
+                 stayHungry = True  
+                 
 ## Lessons Learned
 This 2-month project has been a very challenging one. 
 The journey drove me deeper into more advanced pythonic web development concepts like:
@@ -28,7 +33,8 @@ The journey drove me deeper into more advanced pythonic web development concepts
 Some of the challenges I faced creating this Ecommerce store was getting stuck so many times. 
 I had to find my way out by googling up information and tutorials, 
 books (Django for professionals, Automate the boring stuff with Python, Python crash course), 
-using stack overflow and django documentation e.t.c
+using stack overflow and django documentation e.t.c  
+
 ## Installation
 1 . Clone the repository 
 ```bash
@@ -80,7 +86,8 @@ $ python manage.py migrate
 - Process orders
 - Shipment
 - cookies 
-- Payment gateways
+- Payment gateways  
+- 
 ## Tech Stack
 **Client:** HTML5, CSS3, Bootstrap4, JavaScript
 
