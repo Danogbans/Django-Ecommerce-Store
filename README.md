@@ -1,5 +1,8 @@
 # Ecommerce-Store
 This is a general-purpose Ecommerce store model ready to be adapted and modified to fit any ecommerce business.
+![Ecom-Store](https://github.com/Danogbans/Ecommerce-Store/assets/89392668/22ffcf34-1be0-4c56-8d29-764c6080713c)
+![Ecom-Cart](https://github.com/Danogbans/Ecommerce-Store/assets/89392668/6d25af37-1f3b-4f0a-930a-d854fc6bc1d3)
+![Ecom-Checkout](https://github.com/Danogbans/Ecommerce-Store/assets/89392668/55005394-4c8b-4f96-8951-12d3a00cb451)
 ## Motivations
 I love Python and becoming a Python developer had always been my dream.  
 Now that I am one, becoming one of the best in the game is yet another huge dream which I pursue every minute of my life.  
