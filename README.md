@@ -10,7 +10,7 @@ This is a general-purpose Ecommerce store model ready to be adapted and modified
 ## Motivations
 I love Python and becoming a Python developer had always been my dream.  
 Now that I am one, becoming one of the best in the game is yet another huge dream which I pursue every minute of my life.  
-At the moment of writing this readme doc, I am a junior Python developer with 16 months programming experience working extremely 
+At the moment of writing this readme doc, I am a junior Python developer with 16 months programming experience working extremely  
 hard to becoming a senior Python developer in a short period of time, perhaps in 1 year if possible.  
 The hunger to learn, grow, be one of the best and get to the top is my motivation.  
              
