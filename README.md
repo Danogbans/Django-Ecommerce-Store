@@ -28,7 +28,7 @@ The journey drove me deeper into more advanced pythonic web development concepts
 - How to set cookies in JavaScript.
 - How to work with Python decorators. 
 - How to create a checkout form and logic.
-- How to integrate payment solutions to a website or an application.
+- How to integrate payment solutions to a website or an application. 
 
 Some of the challenges I faced creating this Ecommerce store was getting stuck so many times. 
 I had to find my way out by googling up information and tutorials, 
