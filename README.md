@@ -21,7 +21,7 @@ The hunger to learn, grow, be one of the best and get to the top is my motivatio
 This 2-month project has been a very challenging one. 
 The journey drove me deeper into more advanced pythonic web development concepts like:     
 - How to render products and add image fields to product models.
-- Advanced database modeling: one to many & many to many relationships. 
+- Advanced database modeling: one to many & many to many relationships.  
 - An introduction to JavaScript.
 - How to write functions in JavaScript.
 - How to add event handlers in JavaScript.
