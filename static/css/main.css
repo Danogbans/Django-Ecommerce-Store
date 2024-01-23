@@ -13,7 +13,7 @@ body {
 
 #cart-total {
 	display: block;
-	text-align: center;
+	text-align: center; 
 	color:#fff;
 	background-color: red;
 	width: 19px;
