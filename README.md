@@ -5,7 +5,7 @@ This is a general-purpose Ecommerce store model ready to be adapted and modified
 ## Cart
 ![Ecom-Cart](https://github.com/Danogbans/Ecommerce-Store/assets/89392668/6d25af37-1f3b-4f0a-930a-d854fc6bc1d3)
 ## Checkout
-![Ecom-Checkout](https://github.com/Danogbans/Ecommerce-Store/assets/89392668/55005394-4c8b-4f96-8951-12d3a00cb451)  
+![Ecom-Checkout](https://github.com/Danogbans/Ecommerce-Store/assets/89392668/55005394-4c8b-4f96-8951-12d3a00cb451)    
 
 ## Motivations
 I love Python and becoming a Python developer had always been my dream.  
