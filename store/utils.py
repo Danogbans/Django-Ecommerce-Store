@@ -5,7 +5,7 @@ from .models import *
 def cookieCart(request):
 	'''
 	This function will get the items contained in the cookie cart if user is not authenticated and it will
-	use our visitors browser to create cookies so that they can have the ability to leave our website and stil
+	use our visitors browser to create cookies so that they can have the ability to leave our website and still
 	have their items in cart in their next visit.
 	'''
 
