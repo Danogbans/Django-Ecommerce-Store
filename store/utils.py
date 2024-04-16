@@ -50,7 +50,7 @@ def cookieCart(request):
 def cartData(request):
 	'''
 	This function will get the cart items if user is authenticated or not, 
-	as it contains cookieCart function
+	as it contains cookieCart functio
 	'''
 	if request.user.is_authenticated:
 		customer = request.user.customer
