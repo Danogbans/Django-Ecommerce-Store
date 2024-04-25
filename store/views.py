@@ -11,7 +11,7 @@ def store(request):
 	'''
 	In order to practice D.R.Y (Don't repeat yourself), the (cookieCart) function is called
 	inside the (cartData) function which is then called in the store, cart and checkout view,
-	while the (guestOrder) function is called in the processOrder view. An explanation of what each
+	while the (guestOrder) function is called in the processOrder view. An explanation of what eac
 	function does is contained in the (utils.py) module. 
 	'''
 	data = cartData(request)
