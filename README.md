@@ -36,7 +36,7 @@ books (Django for professionals, Automate the boring stuff with Python, Python c
 using stack overflow and django documentation e.t.c
 
 ## Installation
-1 . Clone the repository 
+1 . Clone the repositor
 ```bash
   git clone https://github.com/<username>/<forked-repo>.git
 ```
