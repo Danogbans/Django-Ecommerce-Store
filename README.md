@@ -33,7 +33,7 @@ The journey drove me deeper into more advanced pythonic web development concepts
 Some of the challenges I faced creating this Ecommerce store was getting stuck so many times. 
 I had to find my way out by googling up information and tutorials, 
 books (Django for professionals, Automate the boring stuff with Python, Python crash course),
-using stack overflow and django documentation e.t.c  
+using stack overflow and django documentation e.t. 
 
 ## Installation
 1 . Clone the repository 
