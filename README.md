@@ -40,7 +40,7 @@ using stack overflow and django documentation e.t.c
 ```bash
   git clone https://github.com/<username>/<forked-repo>.git
 ```
-2 . Create your own virtual environment
+2 . Create your own virtual environmen
 
 ```bash
   python3 -m venv venv
