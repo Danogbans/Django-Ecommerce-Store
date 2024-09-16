@@ -11,7 +11,7 @@ for (i = 0; i < updateBtns.length; i++) {
 		if (user == 'AnonymousUser') {
 			addCookieItem(productId, action);
 		}else{
-			updateUserOrder(productId, action);   
+			updateUserOrder(productId, action)   
 		}
 	});
 }
