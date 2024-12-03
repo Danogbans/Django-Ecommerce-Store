@@ -24,8 +24,6 @@ def store(request):
 	return render(request, 'store/store.html', context)
 
 
-
-
 def cart(request):
 	data = cartData(request)
 	cartItems = data['cartItems']
