@@ -6,7 +6,6 @@ from .models import *
 from .utils import cookieCart, cartData, guestOrder
 
 
-
 def store(request):
 	'''
 	In order to practice D.R.Y (Don't repeat yourself), the (cookieCart) function is called
